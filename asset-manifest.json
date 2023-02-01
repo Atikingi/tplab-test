@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/tplab-test/static/js/main.430c0539.js",
+    "static/js/610.e397bc91.chunk.js": "/tplab-test/static/js/610.e397bc91.chunk.js",
+    "index.html": "/tplab-test/index.html",
+    "main.430c0539.js.map": "/tplab-test/static/js/main.430c0539.js.map",
+    "610.e397bc91.chunk.js.map": "/tplab-test/static/js/610.e397bc91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.430c0539.js"
+  ]
+}
