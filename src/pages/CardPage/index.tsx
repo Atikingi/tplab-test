@@ -30,7 +30,7 @@ const CardPage = () => {
     <S.Container>
       <S.Navigate>
         <BackArrowIcon />
-        <S.NavigateText to={'/'}>Назад</S.NavigateText>
+        <S.NavigateText to={'/tplab-test'}>Назад</S.NavigateText>
       </S.Navigate>
       {response && (
         <Card

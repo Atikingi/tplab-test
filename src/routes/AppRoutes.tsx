@@ -11,11 +11,11 @@ const AppRoutes = () => {
   return (
     <Routes>
       <Route element={<MainLayout />}>
-        <Route path="/" element={<CardsPage />} />
+        <Route path="tplab-test/" element={<CardsPage />} />
       </Route>
       <Route element={<CardPageLayout />}>
         <Route
-          path="/card/:id"
+          path="tplab-test/card/:id"
           element={
             <React.Suspense fallback={<Loader />}>
               <CardPage />

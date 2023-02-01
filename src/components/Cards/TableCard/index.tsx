@@ -17,7 +17,7 @@ const TableCard = ({ id, image_url, name, category, views, start_date, end_date 
         <img src={image_url} alt={name} width="60" height="40" />
       </S.Cell>
       <S.Cell id={id}>
-        <S.NameBox to={`/card/${id}`}>
+        <S.NameBox to={`/tplab-test/card/${id}`}>
           <S.TextName>{name}</S.TextName>
           <S.TextCategory>{category}</S.TextCategory>
         </S.NameBox>
